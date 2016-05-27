@@ -8,3 +8,25 @@ lavado junto y en frio
 4- se puede solo lavar ?
 5- se puede solo plancha ?
 6-que pasa si la prenda queda mal lavada o mal plancha?, se devuelve? se replanifica?
+7-como le informar que tiene q ir a recojer la ropa, ?
+8-cuanto tiempo minimo va al lugar del cliente?
+9-Tiene un maximo de domicilios diarios?
+10-como reparte su dia? hay dias especificos para recojer? para entregar? en la mañana entrega 
+y en la tarde recoje?
+11-cuando la ropa ya esta lavada el como se entera q tiene q ir a recoger? por que medio?
+tiene q llenar alguna planilla de envios?
+12- la lavanderia tiene un tiempo minimo de lavar la ropa? este tiempo es por prenda?
+se paga mas si se quiere al otro dia?
+13- si la prenda se mancha o se daña que sucede?
+14- El cliente es ql q dice q dia lo necesita o depende de la disponibilidad de la lavanderia?
+la lavenderia puede cambiar el dia de entrega?
+15-se cancelan pedidos por por disponibilidad? como es este proceso?
+16- el del trasnporte maneja una agenda del dia de lo q tiene q hacer en el dia? o en la semana o en el mes?
+17-cuanto es el flujo de pedidos a la diarios, a la semana, al mes,?
+que dia tiene en promedio mas flujo ? "Esto es vital para determinar la carga de la aplicacion"
+18- cuantos clientes manejan al mes por servicio adomicilio?
+19-hay personas q recojen la ropa en sitio?
+20-hay personas q dejan la ropa en sitio pero para su entrega deciden el servicio a domicilio?
+21-la tarifa cambia si solo quiere recogida o entrega?
+
+
